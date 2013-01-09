@@ -1,0 +1,15 @@
+# Plugin information
+name: "Flash"
+description: "Plugin para Mensajes Flash, entre controladores y Vistas."
+version: "2.0"
+framework_version: "2.0"
+dependencies: "php"
+notes: ""
+# Author information
+author: "Paul Marclay"
+email: "paul.eduardo.marclay@gmail.com"
+site: ""
+# Legal information
+company: "Dolem Labs"
+copyright: "(c) 2012 - Paul Marclay"
+license: "GNU GENERAL PUBLIC LICENSE"
